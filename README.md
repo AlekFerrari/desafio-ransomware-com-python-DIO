@@ -13,7 +13,7 @@ Kali Lynux e o Nano do kali para digitar o texto e os codigos de criptografia e 
 RESUMO DO PROCESSO
 
 Criar um diretorio (pasta) onde será salvo os arquivos principais.
-- Criar através do nano o arquivo teste.txt - onde vc vai colocar uma frase ou texto para fazer o teste do ransomware, aqui eu criei um arquivo chamado "clientes_cobraca.txt"
+- Criar através do nano o arquivo teste.txt - onde vc vai colocar uma frase ou texto para fazer o teste do ransomware, aqui eu criei um arquivo chamado "clientes_cobranca.txt"
 - Criar através do nano o encrypter.py com a linguagem Python
    - Importar as bibliotecas os e aes;
    - Criar o codigo para ver, ler e fechar o arquivo;
