@@ -1,0 +1,21 @@
+Segue a relação de clientes que estão devedores
+Valor total do débito
+CLA motores = Valor R$ 100.394,00
+TX Materiais = Valor de R$ 97.678.00
+Claudio Saiko = Valor de R$ 3.007,00
+Valdemar Batista = Valor de 678,00
+Alexandre Ferreira = Valor de R$ 217.899,00
+Vilma da Silva = Valor de R$ 55,00
+Katia Gonçalves = Valor de R$ 88.076,00
+Jose Sousa = R$ 567.000,00
+
+TOTAL A RECEBER R$ 1.074.786,00
+
+Fluxo de recebimento
+Janeiro/2025 = R$ 322.435,00
+Fevereiro/2025 = R$ 268.670,00
+Março/2025 = R$ 268.670,00
+Abril/2025 = R$ 215.011,00
+
+
+ 
